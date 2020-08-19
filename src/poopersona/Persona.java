@@ -10,6 +10,7 @@ package poopersona;
  * @author Notebook
  */
 public class Persona {
+    // esto es un cambio
     int dni;
     String nombre;
     String apellido;
